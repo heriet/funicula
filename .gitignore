@@ -1,0 +1,12 @@
+*.swp
+*.swo
+*~
+.\#*
+\#*
+
+.project
+.vscode
+.idea
+
+.DS_Store
+Thumbs.db
